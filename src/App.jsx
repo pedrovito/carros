@@ -13,7 +13,7 @@ export default function App(){
         <Sedans/>
         <Suvs/>
         <Luxury/>
-
+        
 
       </div>
     </main>
